@@ -41,6 +41,12 @@ Feel free to personalize the code and unleash your creativity!
 4. Start, stop, and reset functionality for convenience.
 
 5. Simple deployment to preferred hosting platform.
+
+## Deployment Status
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0cf2407-49ce-4e6d-a9b4-feca33ae2d16/deploy-status)](https://app.netlify.com/sites/kanasu-stopwatch/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
